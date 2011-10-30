@@ -1,0 +1,2 @@
+A plugin for ImageJ. 
+It removes 3D (and 2D) regions smaller than a specified threshold.
